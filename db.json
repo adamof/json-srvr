@@ -1,14 +1,68 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "properties": [
+    {
+      "id": 1,
+      "title": "Oceanfront Villa with Private Pool",
+      "location": {
+        "city": "Malibu",
+        "state": "California"
+      },
+      "details": {
+        "beds": 4,
+        "baths": 3,
+        "guests": 8
+      },
+      "amenities": ["Pool", "Ocean View", "WiFi"],
+      "price": 450,
+      "image": "oceanfront-villa.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Modern Downtown Loft",
+      "location": {
+        "city": "Austin",
+        "state": "Texas"
+      },
+      "details": {
+        "beds": 2,
+        "baths": 2,
+        "guests": 4
+      },
+      "amenities": ["WiFi", "Kitchen", "Gym"],
+      "price": 185,
+      "image": "downtown-loft.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cozy Mountain Cabin",
+      "location": {
+        "city": "Aspen",
+        "state": "Colorado"
+      },
+      "details": {
+        "beds": 3,
+        "baths": 2,
+        "guests": 6
+      },
+      "amenities": ["Fireplace", "Hot Tub", "Mountain View"],
+      "price": 320,
+      "image": "mountain-cabin.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Beachfront Bungalow",
+      "location": {
+        "city": "Miami Beach",
+        "state": "Florida"
+      },
+      "details": {
+        "beds": 2,
+        "baths": 1,
+        "guests": 4
+      },
+      "amenities": ["Beach Access", "WiFi", "Kitchen"],
+      "price": 275,
+      "image": "beachfront-bungalow.jpg"
+    }
+  ]
 }
