@@ -14,7 +14,8 @@
       },
       "amenities": ["Pool", "Ocean View", "WiFi"],
       "price": 450,
-      "image": "oceanfront-villa.jpg"
+      "image": "oceanfront-villa.jpg",
+      "description": "<div class=\"property-card\"><img src=\"oceanfront-villa.jpg\" alt=\"Oceanfront Villa with Private Pool\" /><div class=\"property-info\"><h3>Oceanfront Villa with Private Pool</h3><p class=\"location\">Malibu, California</p><div class=\"details\"><span>🛏 4 beds</span><span>🛁 3 baths</span><span>👥 8</span></div><div class=\"amenities\"><span class=\"tag\">Pool</span><span class=\"tag\">Ocean View</span><span class=\"tag\">WiFi</span></div><p class=\"price\"><strong>$450</strong> / night</p></div></div>"
     },
     {
       "id": 2,
@@ -30,7 +31,8 @@
       },
       "amenities": ["WiFi", "Kitchen", "Gym"],
       "price": 185,
-      "image": "downtown-loft.jpg"
+      "image": "downtown-loft.jpg",
+      "description": "<div class=\"property-card\"><img src=\"downtown-loft.jpg\" alt=\"Modern Downtown Loft\" /><div class=\"property-info\"><h3>Modern Downtown Loft</h3><p class=\"location\">Austin, Texas</p><div class=\"details\"><span>🛏 2 beds</span><span>🛁 2 baths</span><span>👥 4</span></div><div class=\"amenities\"><span class=\"tag\">WiFi</span><span class=\"tag\">Kitchen</span><span class=\"tag\">Gym</span></div><p class=\"price\"><strong>$185</strong> / night</p></div></div>"
     },
     {
       "id": 3,
@@ -46,7 +48,8 @@
       },
       "amenities": ["Fireplace", "Hot Tub", "Mountain View"],
       "price": 320,
-      "image": "mountain-cabin.jpg"
+      "image": "mountain-cabin.jpg",
+      "description": "<div class=\"property-card\"><img src=\"mountain-cabin.jpg\" alt=\"Cozy Mountain Cabin\" /><div class=\"property-info\"><h3>Cozy Mountain Cabin</h3><p class=\"location\">Aspen, Colorado</p><div class=\"details\"><span>🛏 3 beds</span><span>🛁 2 baths</span><span>👥 6</span></div><div class=\"amenities\"><span class=\"tag\">Fireplace</span><span class=\"tag\">Hot Tub</span><span class=\"tag\">Mountain View</span></div><p class=\"price\"><strong>$320</strong> / night</p></div></div>"
     },
     {
       "id": 4,
@@ -62,7 +65,8 @@
       },
       "amenities": ["Beach Access", "WiFi", "Kitchen"],
       "price": 275,
-      "image": "beachfront-bungalow.jpg"
+      "image": "beachfront-bungalow.jpg",
+      "description": "<div class=\"property-card\"><img src=\"beachfront-bungalow.jpg\" alt=\"Beachfront Bungalow\" /><div class=\"property-info\"><h3>Beachfront Bungalow</h3><p class=\"location\">Miami Beach, Florida</p><div class=\"details\"><span>🛏 2 beds</span><span>🛁 1 baths</span><span>👥 4</span></div><div class=\"amenities\"><span class=\"tag\">Beach Access</span><span class=\"tag\">WiFi</span><span class=\"tag\">Kitchen</span></div><p class=\"price\"><strong>$275</strong> / night</p></div></div>"
     }
   ]
 }
